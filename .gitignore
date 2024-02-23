@@ -1,0 +1,4 @@
+# Simulation Output Ignore
+*.log
+*.fft
+*.raw
